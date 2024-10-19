@@ -1,0 +1,94 @@
+.exam-routine-container {
+    font-family: Arial, sans-serif;
+    background-color: #f9fafb;
+    padding: 20px;
+}
+
+.exam-routine-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.exam-routine-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.class-select-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.class-select-label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.class-select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+.routine-sheet {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.school-info {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.school-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.class-info {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #333;
+}
+
+.exam-info {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #333;
+}
+
+.routine-table table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}
+
+.routine-table th, .routine-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+.download-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}

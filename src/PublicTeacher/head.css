@@ -1,0 +1,22 @@
+.bg {
+    background: linear-gradient(90deg, rgba(113, 115, 94, 1) 0%, rgba(191, 203, 123, 0.8633578431372549) 54%, rgba(46, 55, 33, 0.33674719887955185) 99%);
+}
+
+.border2 {
+    border: 1px solid #d4d4d4;
+    text-align: center;
+}
+
+.weight {
+    width: 50px;
+}
+
+.backgroundTeacher {
+    background: linear-gradient(90deg, rgba(43, 132, 150, 1) 0%, rgba(19, 170, 114, 0.891) 54%, rgba(87, 147, 3, 0.337) 99%);
+}
+
+.bg3 {
+    background: linear-gradient(90deg, rgba(43, 59, 105, 1) 0%, rgba(43, 73, 128, 0.8913690476190477) 54%, rgba(14, 60, 92, 0.33674719887955185) 99%);
+}
+
+

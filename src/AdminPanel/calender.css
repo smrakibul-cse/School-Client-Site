@@ -1,0 +1,120 @@
+/* CalendarStyles.css */
+
+/* Custom style for the dot indicating events on specific dates */
+.react-calendar__tile--hasActive {
+    background-color: #f00;
+    /* Change the background color of the dot */
+    border-radius: 50%;
+    /* Make the dot circular */
+}
+
+/* Custom style for the selected date */
+.react-calendar__tile--active {
+    background-color: #007bff;
+    /* Change the background color of the selected date */
+    color: #fff;
+    /* Change the text color of the selected date */
+}
+
+/* Custom style for the navigation buttons */
+.react-calendar__navigation__label {
+    font-size: 1.2rem;
+    /* Increase the font size of the navigation buttons */
+    color: #f2f5f2;
+    /* Change the color of the navigation buttons */
+    border: none;
+    /* Remove the default border */
+}
+
+/* Custom style for the month and year label */
+.react-calendar__navigation__label--select {
+    font-size: 1.5rem;
+    /* Increase the font size of the month and year label */
+    color: #f5f2f2;
+    /* Change the color of the month and year label */
+}
+
+/* Custom style for the day of the week labels */
+.react-calendar__month-view__weekdays__weekday abbr {
+    font-size: 1rem;
+    /* Change the font size of the day of the week labels */
+    color: black;
+    /* Change the color of the day of the week labels */
+    /* Set background color to transparent */
+    border-bottom: none;
+
+    /* Remove the bottom border */
+}
+
+/* Custom style for the day labels */
+.react-calendar__month-view__days__day {
+    font-size: 1rem;
+    /* Change the font size of the day labels */
+    color: #333;
+    /* Change the color of the day labels */
+}
+
+/* Custom style for the day labels when they are disabled */
+.react-calendar__tile--now:disabled,
+.react-calendar__tile--now:disabled:enabled:hover,
+.react-calendar__tile--active:disabled,
+.react-calendar__tile--active:disabled:enabled:hover {
+    color: #ccc;
+    /* Change the color of the disabled day labels */
+}
+
+/* CalendarStyles.css */
+
+/* Custom style for the navigation buttons container */
+.react-calendar__navigation {
+    background-color: #9e3eb9;
+    /* Set the background color of the navigation buttons container */
+    padding: 10px;
+    /* Add some padding for better visual appearance */
+
+    /* Add border radius for rounded corners */
+}
+
+
+/* calender.css */
+.react-calendar {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+}
+
+.react-calendar__tile--active {
+    background: #4caf50 !important;
+    color: white !important;
+    border-radius: 50%;
+}
+
+.react-calendar__tile:hover {
+    background: #e0f7fa;
+    border-radius: 50%;
+}
+
+.text-red-500 {
+    color: #ff5722 !important;
+}
+
+.font-bold {
+    font-weight: bold !important;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+table th,
+table td {
+    padding: 1rem;
+    border: 1px solid #ddd;
+}
+
+ 
+
+ 

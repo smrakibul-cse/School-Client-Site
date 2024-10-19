@@ -1,0 +1,94 @@
+/* ViewTestimonial.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.roboto {
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+.testimonial-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.testimonial-card {
+    border: 4px solid #ff8c00;
+    border-radius: 20px;
+    padding: 40px;
+    width: 50%;
+}
+
+.school-logo {
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+.school-name {
+    font-size: 24px;
+    color: #35749e;
+    margin-bottom: 5px;
+}
+
+.school-address,
+.school-details {
+    font-size: 18px;
+    color: #11161e;
+    margin-bottom: 5px;
+}
+
+.testimonial-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.testimonial-wish {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.testimonial-signature {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.signature-label {
+    font-size: 14px;
+}
+
+.signature-school,
+.signature-address {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.info-column {
+    flex: 1;
+}
+
+.info-label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.info-value {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .testimonial-card {
+        width: 80%;
+    }
+}

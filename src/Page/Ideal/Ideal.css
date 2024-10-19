@@ -1,0 +1,8 @@
+.ideal-container {
+    background-image: url("https://i.ibb.co/34m8XpB/banner-2.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    height: 200px;
+    /* Adjust padding as needed */
+}

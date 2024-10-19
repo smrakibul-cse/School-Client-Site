@@ -1,0 +1,16 @@
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+
+.font-face {
+    font-family: 'SolaimanLipi';
+    src: url('SolaimanLipi.eot');
+    src: url('SolaimanLipi.woff') format('woff'),
+        url('SolaimanLipi.ttf') format('truetype'),
+        url('SolaimanLipi.svg#SolaimanLipiNormal') format('svg'),
+        url('SolaimanLipi.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.gradient-background {
+    background: linear-gradient(to right, rgba(21, 21, 21, 0.00), rgba(21, 21, 21, 0.00));
+}

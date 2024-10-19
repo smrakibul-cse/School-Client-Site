@@ -1,0 +1,33 @@
+/* Style for the public notice container */
+.public-notice-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style for the admission news cards */
+.admission-news-card {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the heading of the admission news */
+.admission-news-card h3 {
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+/* Style for the content of the admission news */
+.admission-news-card p {
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Style for the date and time of the admission news */
+.admission-news-card p:last-child {
+    color: #777;
+    font-size: 14px;
+}

@@ -1,0 +1,27 @@
+ 
+
+
+.background {
+    background: linear-gradient(90deg, rgba(105, 100, 204, 1) 0%, rgba(121, 54, 209, 1) 46%, rgba(200, 179, 232, 1) 99%);
+}
+
+.bg2 {
+    background: linear-gradient(90deg, rgba(15, 152, 26, 1) 0%, rgba(92, 155, 65, 0.8913690476190477) 0%, rgba(47, 54, 170, 0.8913690476190477) 60%);
+}
+
+.bg4 {
+
+    background: linear-gradient(90deg, rgba(87, 43, 128, 1) 0%, rgba(77, 39, 113, 0.8913690476190477) 0%, rgba(47, 170, 98, 0.8913690476190477) 58%);
+
+}
+
+.bg5 {
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 0.7793242296918768) 100%);
+}
+
+.bg6 {
+    background: linear-gradient(90deg, rgba(15, 152, 26, 1) 0%, rgba(226, 74, 72, 0.8913690476190477) 0%, rgba(133, 29, 189, 0.8913690476190477) 68%);
+}
+.bg7 {
+    background: linear-gradient(90deg, rgb(31, 182, 169) 0%, rgba(78, 149, 207, 0.891) 0%, rgba(74, 28, 144, 0.891) 68%);
+}
